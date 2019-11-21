@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mydsnz/nz-core/_apis/build/status/SwapnilPalande.ContosoAir?branchName=master)](https://dev.azure.com/mydsnz/nz-core/_build/latest?definitionId=19&branchName=master)
 
 
 # Microsoft.Github CI Demo
